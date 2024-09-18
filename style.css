@@ -1,0 +1,44 @@
+* {
+    font-family: 'Verdana', sans-serif;
+}
+
+.heading {
+    font-size:32px;
+    background-color: bisque;
+    color: blue;
+}
+
+.description {
+    color: red;
+    background-color: black;
+}
+
+p {
+    color: white;
+    background-color: lightgray;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
+
+ul {
+    color: yellowgreen;
+    background-color: brown;
+}
+
+ol {
+    color:blueviolet;
+    background-color: orange;
+}
+
+a {
+    color: pink;
+    
+}
+
+.sub-heading {
+    color: purple;
+    background-color: gold;
+}
